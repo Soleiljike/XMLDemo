@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:drawable="@drawable/and"
+        android:maxLevel="1" />
+    <item
+        android:drawable="@drawable/ico1"
+        android:maxLevel="2" />
+    <item
+        android:drawable="@drawable/ico2"
+        android:maxLevel="3" />
+    <item
+        android:drawable="@drawable/ico3"
+        android:maxLevel="4" />
+    <item
+        android:drawable="@drawable/ico5"
+        android:maxLevel="5" />
+
+
+</level-list>
